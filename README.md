@@ -1,6 +1,6 @@
 Hey I'm DeGatchi. <br>
 
-I'm a hobbyist Programmer that enjoys Assembly and offsenive low-level tooling with Rust.
+I'm a hobbyist programmer that enjoys assembly and building low-level tooling with Rust.
 
 Currently I am building an EVM bytecode decoder.
 
