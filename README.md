@@ -2,7 +2,7 @@ Hey I'm DeGatchi. <br>
 
 I'm a programmer that enjoys writing/reading assembly and building tools and infrastructure with Rust.
 
-Currently I am building a standalone EVM bytecode decoder with formal verification capabilities, by myself.
+Currently I am building a standalone bytecode decoder by my lonesome.
 
 #### Social:
 - [Portfolio](https://degatchi.com)
