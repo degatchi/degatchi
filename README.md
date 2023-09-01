@@ -1,14 +1,16 @@
 Hey I'm DeGatchi. <br>
 
-I'm a programmer that enjoys writing/reading assembly and building tools and infrastructure with Rust.
+I'm a programmer that works with binary daily for tools and infrastructure that do program analysis with Rust.
 
-Currently I am building a standalone bytecode decoder by my lonesome.
+Currently I am building an exploit generation tool for smart contracts.
+
+Looking into unsupervised deep reinforcement learning.
 
 #### Social:
-- [Portfolio](https://degatchi.com)
+- [Portfolio](https://degatchi.com/career)
 - [Artciles](https://degatchi.com/articles)
-- [Twitter](https://twitter.com/C5pider)
-- [Website](https://5pider.net)
+- [Twitter](https://twitter.com/degatchi)
+- [Website](https://degatchi.com)
 - [Mailing List](https://mailchi.mp/af592f7038e9/join-degatchis-mailing-list)
 
 <a>
