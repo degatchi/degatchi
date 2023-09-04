@@ -1,10 +1,6 @@
-Hey I'm DeGatchi. <br>
+DeGatchi. <br>
 
-I'm a programmer that works with binary daily for tools and infrastructure that do program analysis with Rust.
-
-Currently I am building an exploit generation tool for smart contracts.
-
-Looking into unsupervised deep reinforcement learning.
+A programmer addicted to binaries, exploits, tooling.
 
 #### Social:
 - [Portfolio](https://degatchi.com/career)
