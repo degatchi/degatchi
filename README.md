@@ -4,7 +4,7 @@ A programmer addicted to binaries, exploits, tooling.
 
 #### Social:
 - [Portfolio](https://degatchi.com/career)
-- [Artciles](https://degatchi.com/articles)
+- [Articles](https://degatchi.com/articles)
 - [Twitter](https://twitter.com/degatchi)
 - [Website](https://degatchi.com)
 - [Mailing List](https://mailchi.mp/af592f7038e9/join-degatchis-mailing-list)
